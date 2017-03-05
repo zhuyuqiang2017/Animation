@@ -12,6 +12,7 @@ import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.animation.AlphaAnimation;
+import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.widget.ImageView;
 
@@ -28,6 +29,7 @@ public class MainActivity extends AppCompatActivity {
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+//                image.startAnimation(getAlphaAnimation());
                 image.startAnimation(alpha);
             }
         });
@@ -49,8 +51,11 @@ public class MainActivity extends AppCompatActivity {
         options.inJustDecodeBounds = false;
         mBitmap = BitmapFactory.decodeResource(getResources(),R.drawable.test,options);
         image.setImageBitmap(mBitmap);
-
-
     }
-
+    private AlphaAnimation getAlphaAnimation(){
+        AlphaAnimation alphaAnimation = new AlphaAnimation(1.0f,0.3f);
+        alphaAnimation.setDuration(3000);
+        alphaAnimation.setFillAfter(true);
+        return alphaAnimation;
+    }
 }
