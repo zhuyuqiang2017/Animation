@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ViewAnimation</string>
+    <string name="scale">StartScaleAnimation</string>
+    <string name="alpha">StartAlphaAnimation</string>
+    <string name="rotate">StartRotateAnimation</string>
+    <string name="translate">StartTranslateAnimation</string>
+    <string name="set">StartSetAnimation</string>
+</resources>
