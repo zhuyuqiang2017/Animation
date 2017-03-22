@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">InterpolatorDemo</string>
+    <string name="accelerate_decelerate">accelerate_decelerate</string>
+    <string name="accelerate">accelerate</string>
+    <string name="anticipate">anticipate</string>
+    <string name="anticipate_overshoot">anticipate_overshoot</string>
+    <string name="bounce">bounce</string>
+    <string name="cycle">cycle</string>
+    <string name="overshoot">overshoot</string>
+    <string name="path">path</string>
+    <string name="linear">linear</string>
+    <string name="custom">custom</string>
+</resources>

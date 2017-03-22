@@ -1,1 +1,1 @@
-include ':app', ':alpha', ':viewanimation'
+include ':app', ':alpha', ':viewanimation', ':interpolatordemo'
