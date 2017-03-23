@@ -7,6 +7,6 @@
     android:toXScale="6"
     android:toYScale="6"
     android:duration="6000"
-    android:fillAfter="false"
-    android:fillBefore="true">
+    android:fillAfter="true"
+    android:fillBefore="false">
 </scale>
