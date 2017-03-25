@@ -9,11 +9,10 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/alpha" />
-            <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/interpolatordemo" />
+            <option value="$PROJECT_DIR$/animatorandanimation" />
+            <option value="$PROJECT_DIR$/evalutordemo" />
             <option value="$PROJECT_DIR$/objectanimatordemo" />
-            <option value="$PROJECT_DIR$/viewanimation" />
+            <option value="$PROJECT_DIR$/valueanimatordemo" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

@@ -1,1 +1,2 @@
-include ':app', ':alpha', ':viewanimation', ':interpolatordemo', ':objectanimatordemo'
+include ':objectanimatordemo', ':valueanimatordemo', ':evalutordemo', ':animatorandanimation'
+//':app', ':alpha', ':viewanimation', ':interpolatordemo',
