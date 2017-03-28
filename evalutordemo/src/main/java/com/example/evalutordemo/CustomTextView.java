@@ -15,7 +15,7 @@ import android.widget.TextView;
  */
 
 public class CustomTextView extends View {
-    private Character mText = 'a';
+    private Character mText = '*';
     private Paint p;
     private Rect text;
     private Rect canvasRect;

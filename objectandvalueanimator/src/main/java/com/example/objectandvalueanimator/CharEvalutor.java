@@ -1,18 +1,15 @@
-package com.example.evalutordemo;
+package com.example.objectandvalueanimator;
 
 import android.animation.TypeEvaluator;
-import android.text.style.CharacterStyle;
 
 /**
- * Created by Administrator on 2017/3/25 0025.
+ * Created by Administrator on 2017/3/28 0028.
  */
 
 public class CharEvalutor implements TypeEvaluator<Character> {
     @Override
     public Character evaluate(float fraction, Character startValue, Character endValue) {
-        char value = (char) (startValue+(endValue-startValue)*fraction);
-        return value;
+       char c = (char) (startValue+(endValue-startValue)*fraction);
+        return new Character(c);
     }
 }
-
-

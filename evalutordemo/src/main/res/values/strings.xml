@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">EvalutorDemo</string>
+    <string name="start_animator">Start Animator</string>
 </resources>

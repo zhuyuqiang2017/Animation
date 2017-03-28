@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ObjectAndValueAnimator</string>
+    <string name="ofInt">ofInt</string>
+    <string name="ofFloat">ofFloat</string>
+    <string name="ofObject">ofObject</string>
+    <string name="ofHolder">ofHolder</string>
+</resources>
