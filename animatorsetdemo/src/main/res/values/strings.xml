@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AnimatorSetDemo</string>
+    <string name="menu_1">menu_1</string>
+    <string name="menu_2">menu_2</string>
+    <string name="menu_3">menu_3</string>
+    <string name="menu_4">menu_4</string>
+    <string name="menu_5">menu_5</string>
+</resources>

@@ -10,6 +10,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/animatorandanimation" />
+            <option value="$PROJECT_DIR$/animatorsetdemo" />
             <option value="$PROJECT_DIR$/evalutordemo" />
             <option value="$PROJECT_DIR$/objectandvalueanimator" />
             <option value="$PROJECT_DIR$/objectanimatordemo" />
