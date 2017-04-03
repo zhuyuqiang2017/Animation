@@ -1,2 +1,2 @@
-include ':objectanimatordemo', ':valueanimatordemo', ':evalutordemo', ':animatorandanimation', ':objectandvalueanimator', ':animatorsetdemo'
-//':app', ':alpha', ':viewanimation', ':interpolatordemo',
+include ':listlayoutanimationdemo', ':gridviewanimationdemo', ':addandremoveanimation', ':changeactivity'
+//':app', ':animatorsetdemo', , ':myapplication' ':alpha', ':viewanimation', ':interpolatordemo',':objectanimatordemo', ':valueanimatordemo', ':evalutordemo', ':animatorandanimation', ':objectandvalueanimator',

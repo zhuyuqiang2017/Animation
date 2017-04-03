@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AddAndRemoveAnimation</string>
+    <string name="add_view">"添加"</string>
+    <string name="add_view_content">"添加"%1$d</string>
+    <string name="remove_view">"删除"</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChangeActivity</string>
+    <string name="first">"第一个activity"</string>
+    <string name="second">"第二个activity"</string>
+</resources>

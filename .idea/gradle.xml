@@ -3,18 +3,16 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="distributionType" value="LOCAL" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="gradleHome" value="C:\Software\Android\Studio\gradle\gradle-2.14.1" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/animatorandanimation" />
-            <option value="$PROJECT_DIR$/animatorsetdemo" />
-            <option value="$PROJECT_DIR$/evalutordemo" />
-            <option value="$PROJECT_DIR$/objectandvalueanimator" />
-            <option value="$PROJECT_DIR$/objectanimatordemo" />
-            <option value="$PROJECT_DIR$/valueanimatordemo" />
+            <option value="$PROJECT_DIR$/addandremoveanimation" />
+            <option value="$PROJECT_DIR$/changeactivity" />
+            <option value="$PROJECT_DIR$/gridviewanimationdemo" />
+            <option value="$PROJECT_DIR$/listlayoutanimationdemo" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
